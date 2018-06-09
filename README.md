@@ -1,0 +1,2 @@
+# Do-First-Babies-Come-Late
+(Using Matplotlib and thinkstats2 to process CDC data) Visualizing the problem of Do first babies come late. Data provided by Center for Disease Control's Survey of Family Growth. There is a clear trend but this survey is not representational of society and is not outside of the statistical range of 3%+. The other problem with the data is that there is a diminishing pool of data the more points you try to use since many people don't have more than 1 child and especially not more than 2.
